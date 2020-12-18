@@ -1,0 +1,21 @@
+{
+  "name": "webpack-bundle-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashwin Dinesh",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
